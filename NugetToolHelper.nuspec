@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>NugetToolHelper</id>
+        <version>1.0.0</version>
+        <authors>beidelman</authors>
+        <owners>beidelman</owners>
+        <projectUrl>https://github.com/BlogTalkRadio/NugetToolHelper</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>simplifies using tools in other nuget packages </description>
+        <copyright>Copyright 2013</copyright>
+        <tags>nuget package tools helper</tags>
+    </metadata>
+</package>
