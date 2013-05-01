@@ -2,7 +2,7 @@
 <package>
     <metadata>
         <id>NugetToolHelper</id>
-        <version>1.0.0</version>
+        <version>1.0.2</version>
         <authors>beidelman</authors>
         <owners>beidelman</owners>
         <projectUrl>https://github.com/BlogTalkRadio/NugetToolHelper</projectUrl>
